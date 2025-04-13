@@ -2,7 +2,7 @@
 - 🌱I'm a Junior backend engineer
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=rails,laravel,go,js,html,css,docker,ubuntu,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rails,laravel,js,html,css,docker,ubuntu,vscode,figma)](https://skillicons.dev)
 
 <!--
 ## Activities
